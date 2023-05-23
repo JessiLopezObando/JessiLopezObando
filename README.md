@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👯 I’m looking to collaborate on **open source #frontend development**
+- 👯 I’m looking to collaborate on **open source #Automation Tester**
 
-- 💬 Ask me about **HTML5, CSS, Javascript, React, Java, Python, C++, Bootstrap, Spring Boot**
+- 💬 Ask me about **QA, Java, Manual and Automated Testing, Selenium, Cucumber, RestAssured, Screenplay, Docker, Podman, Jenkins, Sonar, Python, C++, Bootstrap, Spring Boot, Git, Github, React**
 
 - 📫 How to reach me **www.linkedin.com/in/jessica-andrea-lopez-obando-461281a0**
 
