@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👯 I’m looking to collaborate on **Test Automation**
+- 👯 I’m looking to collaborate on **Develoment**
 
 - 💬 Ask me about **QA, Java, Manual and Automated Testing, Selenium, Cucumber, RestAssured, Screenplay, Docker, Podman, Jenkins, Sonar, Python, C++, Bootstrap, Spring Boot, Git, Github, React**
 
