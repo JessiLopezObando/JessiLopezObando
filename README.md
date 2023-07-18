@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Development**
 
-- 💬 Ask me about **QA, Java, Manual and Automated Testing, Selenium, Cucumber, RestAssured, Screenplay, Docker, Podman, Jenkins, Sonar, Python, C++, Bootstrap, Spring Boot, Git, Github, React**
+- 💬 Ask me about **QA, Java, Manual and Automated Testing, Selenium, Cucumber, RestAssured, Screenplay, Docker, Podman, Jenkins, Sonar, Spring Boot, Git, Github**
 
 - 📫 How to reach me **www.linkedin.com/in/jessica-andrea-lopez-obando-461281a0**
 
